@@ -1,0 +1,16 @@
+{
+  "name": "discordchatbridge",
+  "version": "1.0.0",
+  "description": "a discord bot which connects two (or more) chats from different servers",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "seba",
+  "license": "ISC",
+  "dependencies": {
+    "commandkit": "^0.1.10",
+    "discord.js": "^14.15.3",
+    "figlet": "^1.7.0"
+  }
+}

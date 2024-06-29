@@ -1,0 +1,9 @@
+{
+  "token": "your token",
+  "defaultColor": "#E3F4F4",
+  "successEmojiUrl": "https://cdn3.emoji.gg/emojis/1697_Success_512x512_by_DW.png",
+  "ownerIDs": [
+    "your id",
+    "other owner id"
+  ]
+}
